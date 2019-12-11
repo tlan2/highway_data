@@ -1,9 +1,0 @@
-
-## using CQLSH
-CREATE KEYSPACE IF NOT EXISTS highwayData 
-    WITH replication = {'class':'SimpleStrategy', 'replication_factor': 1};
-
-## using pycassaShell
-SYSTEM_MANAGER.create_keyspace('highwayData', strategy_options={"replication_factor": "1"})
-
-

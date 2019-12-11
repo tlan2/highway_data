@@ -1,5 +1,0 @@
-pycassaShell
-
-SYSTEM_MANAGER.create_keyspace('superKeySpace', strategy_options={"replication_factor": "1"})
-
-SYSTEM_MANAGER.create_column_family('superKeySpace', 'stationid', super=True)

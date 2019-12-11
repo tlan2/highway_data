@@ -1,4 +1,8 @@
-#I'm terrible so I use both "" and '' all throughout this
+# Tom Lancaster, William Mass, and Trina Rutz (c) December 2019
+# Coded by Trina 
+# Group: Mama Cass and the Redis Tributers 
+# Team Redis
+
 import csv
 import os
 import redis as r
