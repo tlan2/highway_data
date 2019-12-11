@@ -1,4 +1,6 @@
-# Redis Database by Mama Cass and the Redis Tributers
+# Redis Database 
+
+Group: Mama Cass and the Redis Tributers
 
 To help distinguish our work, our group decided to separate the repositories by the database we used for this project - Cassandra and Redis.
 
