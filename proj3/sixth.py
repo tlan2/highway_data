@@ -1,4 +1,8 @@
-#Route Finding: Find a route from Johnson Creek to Columbia Blvd on I-205 NB using the upstream and downstream fields.
+# Tom Lancaster, William Mass, and Trina Rutz
+# Group: Mama Cass and the Redis Tributers
+# (c) December 2019
+# sixth.py - 6th Query - Redis
+# Route Finding: Find a route from Johnson Creek to Columbia Blvd on I-205 NB using the upstream and downstream fields.
 import redis as r
 import json
 

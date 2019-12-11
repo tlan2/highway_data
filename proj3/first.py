@@ -1,4 +1,9 @@
-#I'm terrible so I use both "" and '' all throughout this
+# Tom Lancaster, William Mass, and Trina Rutz (c) December 2019
+# Primarily coded by Trina with input from other members
+# Group: Mama Cass and the Redis Tributers
+# first.py - 1st Query - Redis
+# Count high speeds: Find the number of speeds > 100 in the data set
+
 import redis as r
 import json
 
